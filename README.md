@@ -1,6 +1,6 @@
 # SyriaTel Customer Churn
 
-![telecom%20churn.png](data/telecom%20churn.png)
+![telecom%20churn.png](telecom%20churn.png)
 
 
 ## Overview
