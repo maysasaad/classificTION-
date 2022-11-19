@@ -1,6 +1,6 @@
 # SyriaTel Customer Churn
 
-![telecom%20churn.png](telecom%20churn.png)
+![telecom%20churn.png](Images/telecom%20churn.png)
 
 
 ## Overview
@@ -21,7 +21,7 @@ This project uses SyriaTel Telecom's Churn Dataset from Kaggle, which consists o
 
 -Our model iterations utilized subsets of these features as well as aggregations of these features to determine which features would best predict customer churn.
 
-![featears.png](featears.png )
+![featears.png](Images/featears.png )
 
 
 
@@ -66,7 +66,7 @@ The reason behind choosing recall to evaluate the model is that we have to consi
 
 We can express the false negative when the model predicts that a customer would stay with SyriaTel but in fact,they would churn/leave. 
 
-![cm.png](cm.png)
+![cm.png](Images/cm.png)
 
 
 ## Conclusion and Recommendations
