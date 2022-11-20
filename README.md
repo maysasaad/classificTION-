@@ -83,13 +83,13 @@ predicting which users are likely to churn is only half the battle. To meaningfu
 
 We indicate the three most important features that impact the relationship between the customer and the company:
 
-1-Total charge:Increase in domestic call charges, best indicator of the churning behavior because that may lead to switching from the telecom service provider.
+1-Total charge: Increase in domestic call charges, the best indicator of the churning behavior because that may lead to switching from the telecom service provider.
 
-Total dollars charged refers to the amount of money that customer should pay for receiving services. Higher prices have negative effects on customer purchases and positive effects on customer churn Customers are seeking markets with fewer service prices.
+Total dollars charged refers to the amount of money that customers should pay for receiving services. Higher prices have negative effects on customer purchases and positive effects on customer churn Customers are seeking markets with fewer service prices.
 
-Flexible and affordable billing will encourage customers to upgrade their plans with the company and improving customer satisfaction.
+Flexible and affordable billing will encourage customers to upgrade their plans with the company and improve customer satisfaction.
 
-2-Customer service calls: The number of calls made to customer service was the significant predictor of the customer churn behavior, poor customer service experiences like long wait times, and ineffective self-service options leads customers to chrun.
+2-Customer service calls: The number of calls made to customer service was the significant predictor of customer churn behavior, poor customer service experiences like long wait times, and ineffective self-service options lead customers to churn.
 
 Meaning the company needs to do some evaluation of frontline teams. The company needs to communicate with the customers across their journey and solve any bottlenecks.
 
@@ -97,7 +97,7 @@ Good customer service shouldn’t be reserved for new customers only the existin
 
 3-Voice mail plan yes: is a computer-based system that enables users to deliver voice information. It refers to a voice message that a caller leaves when the person they call is either unable to receive his call or busy with another conversation. Voicemail services are not just an option, but a requirement for any business.
 
-Telecoms companies can improve their Voicemail Services With excellent software voicemail providers also offer faxing capabilities or allows for multiple voicemail extensions, voicemail to e-mail, voicemail to text, and much more for affordable monthly price, The best part of this is that even if the customer's cell phone dies or stops working, voicemail still works.
+Telecoms companies can improve their Voicemail Services With excellent software voicemail providers also offer faxing capabilities or allows for multiple voicemail extensions, voicemail to e-mail, voicemail to text, and much more for an affordable monthly price, The best part of this is that even if the customer's cell phone dies or stops working, voicemail still works.
 
 ## Next Steps
 
