@@ -30,25 +30,26 @@ This project uses SyriaTel Telecom's Churn Dataset from Kaggle, which consists o
 Through this project, We tests a variety of classification models including:
 
 1-Logistic Regression Classifier
+
 2-Decisioin Tree Classifier
 3-Random Forest Classifer
+
 
 ### Baseline Model:(Logistic Regression Classifier)
 
 Logistic Regression is a classification technique used in machine learning. It uses a logistic function to model the dependent variable. this technique is used while dealing with binary data.
-The performance of the baseline model is 80%  .
-The model predicts that 30 cases would stop subscribeing Syriatel services and they actually left.
-The model predicts  that 95 cases would still subscribeing Syriatel services and they actually true.
+The performance of the baseline model is 80%.
+The model predicts that 30 cases would stop subscribing Syriatel services and they left.
+The model predicts that 95 cases would still subscribe Syriatel services and they are true.
 
 ### Final Model:( Decision tree Classifier with hyperparameters tuning)
 
-Decision Tree is a Supervised Machine Learning Algorithm that uses a set of rules to make decisions.The intuition behind Decision Trees is that you use the dataset features to create yes/no questions and continually split the dataset until you isolate all data points belonging to each class.
-Pruning is a technique associated with decision trees.Pruning reduces the size of decision trees by removing parts of the tree that do not provide power to classify instances  is a technique associated with decision trees. Pruning reduces the size of decision trees by removing parts of the tree that do not provide power to classify instance.
+A Decision Tree is a Supervised Machine Learning Algorithm that uses a set of rules to make decisions. The intuition behind Decision Trees is that you use the dataset features to create yes/no questions and continually split the dataset until you isolate all data points belonging to each class.
+Pruning is a technique associated with decision trees. Pruning reduces the size of decision trees by removing parts of the tree that do not provide power to classify instances is a technique associated with decision trees. Pruning reduces the size of decision trees by removing parts of the tree that do not provide power to classify instances.
 
-The performance of the final model is  91 %  .
-The model predicts that 108 cases would stop subscribeing Syriatel services and they actually left.
-The model predicts  that 17 cases would still subscribeing Syriatel services and they actually true.
-
+The performance of the final model is  91 %.
+The model predicts that 108 cases would stop subscribing to Syriatel services and they left.
+The model predicts that 17 cases would still subscribe to Syriatel services and they are actually true.
 
 ## Evaluation
 
