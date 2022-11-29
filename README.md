@@ -32,6 +32,7 @@ Through this project, We tests a variety of classification models including:
 1-Logistic Regression Classifier
 
 2-Decisioin Tree Classifier
+
 3-Random Forest Classifer
 
 
@@ -39,8 +40,9 @@ Through this project, We tests a variety of classification models including:
 
 Logistic Regression is a classification technique used in machine learning. It uses a logistic function to model the dependent variable. this technique is used while dealing with binary data.
 The performance of the baseline model is 80%.
-The model predicts that 30 cases would stop subscribing Syriatel services and they left.
-The model predicts that 95 cases would still subscribe Syriatel services and they are true.
+The recall of the baseline model is 22%.
+The model predicts that 28 cases would stop subscribing Syriatel services and they left.
+The model predicts that 97 cases would still subscribe Syriatel services and they are true.
 
 ### Final Model:( Decision tree Classifier with hyperparameters tuning)
 
@@ -48,8 +50,9 @@ A Decision Tree is a Supervised Machine Learning Algorithm that uses a set of ru
 Pruning is a technique associated with decision trees. Pruning reduces the size of decision trees by removing parts of the tree that do not provide power to classify instances is a technique associated with decision trees. Pruning reduces the size of decision trees by removing parts of the tree that do not provide power to classify instances.
 
 The performance of the final model is  91 %.
-The model predicts that 108 cases would stop subscribing to Syriatel services and they left.
-The model predicts that 17 cases would still subscribe to Syriatel services and they are actually true.
+The recall of the final model is 87 %.
+The model predicts that 109 cases would stop subscribing to Syriatel services and they left.
+The model predicts that 16 cases would still subscribe to Syriatel services and they are actually true.
 
 ## Evaluation
 
