@@ -43,6 +43,7 @@ The performance of the baseline model is 80%.
 The recall of the baseline model is 22%.
 The model predicts that 28 cases would stop subscribing Syriatel services and they left.
 The model predicts that 97 cases would still subscribe Syriatel services and they are true.
+![report1.png](Images/report1.png)
 
 ### Final Model:( Decision tree Classifier with hyperparameters tuning)
 
@@ -53,6 +54,7 @@ The performance of the final model is  91 %.
 The recall of the final model is 87 %.
 The model predicts that 109 cases would stop subscribing to Syriatel services and they left.
 The model predicts that 16 cases would still subscribe to Syriatel services and they are actually true.
+![report2.png](Images/report2.png)
 
 ## Evaluation
 
